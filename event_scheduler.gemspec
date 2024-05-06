@@ -10,9 +10,8 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "TODO: Write a short summary, because RubyGems requires one."
   spec.description   = "TODO: Write a longer description or delete this line."
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/medaminemghirbi/event_scheduler"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.4.0")
-  spec.homepage_uri = 'https://github.com/medaminemghirbi/event_scheduler'
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
